@@ -2,6 +2,9 @@ go Projects specifically to blockchain
 
 Go_Blockchain  is a modular blockchain written in GO. It uses badgerDB to store  all  the blockchain. It has some drawbacks which makes it not suitable for production-level blockchain but it  makes a good dummy blockchain.
 
+
+GoBlockchain is ablockchain i have developed fromscratch as a test project. It contains allthe  basic blockchain stuff with frontend of the wallet and the wallet itself. It also contains the server code to run the server for the blockchain.
+
 Feel free to clone my Go projects
 
 
